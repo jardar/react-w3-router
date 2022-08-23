@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jardar/react-w3-router.git/static/css/main.073c9b0a.css",
-    "main.js": "/jardar/react-w3-router.git/static/js/main.6c7af5f3.js",
-    "static/js/787.d0ac22ec.chunk.js": "/jardar/react-w3-router.git/static/js/787.d0ac22ec.chunk.js",
-    "index.html": "/jardar/react-w3-router.git/index.html",
-    "main.073c9b0a.css.map": "/jardar/react-w3-router.git/static/css/main.073c9b0a.css.map",
-    "main.6c7af5f3.js.map": "/jardar/react-w3-router.git/static/js/main.6c7af5f3.js.map",
-    "787.d0ac22ec.chunk.js.map": "/jardar/react-w3-router.git/static/js/787.d0ac22ec.chunk.js.map"
+    "main.css": "/react-w3-router/static/css/main.073c9b0a.css",
+    "main.js": "/react-w3-router/static/js/main.6dfa742f.js",
+    "static/js/787.d0ac22ec.chunk.js": "/react-w3-router/static/js/787.d0ac22ec.chunk.js",
+    "index.html": "/react-w3-router/index.html",
+    "main.073c9b0a.css.map": "/react-w3-router/static/css/main.073c9b0a.css.map",
+    "main.6dfa742f.js.map": "/react-w3-router/static/js/main.6dfa742f.js.map",
+    "787.d0ac22ec.chunk.js.map": "/react-w3-router/static/js/787.d0ac22ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6c7af5f3.js"
+    "static/js/main.6dfa742f.js"
   ]
 }
